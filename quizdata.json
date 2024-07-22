@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "question": "What is the largest lake in the world?",
+            "option": [
+                "caspian Sea",
+                "Baikal",
+                "Lake Spuperior",
+                "Ontario"
+            ],
+            "answer": "Baikal"
+        },
+        {
+            "question": "In what year did the Great October Socialist Revolution take place?",
+            "option": [
+                "1917",
+                "1923",
+                "1914",
+                "1920"
+            ],
+            "answer": "1917"
+        },
+        {
+            "question": "Which planet in the solar system is known as the Red Planet?",
+            "option": [
+                "Venus",
+                "Earth",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the capital of Japan?",
+            "option": [
+                "Beijing",
+                "Tokyo",
+                "Seoul",
+                "Bangkok"
+            ],
+            "answer": "Tokyo"
+        },
+        {
+            "question": "Which river is the longest in the World",
+            "option": [
+                "Amazon",
+                "Mississippi",
+                "Nile",
+                "Yangtze"
+            ],
+            "answer": "Nile"
+        }
+    ]
+}
